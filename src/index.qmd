@@ -1,0 +1,8 @@
+---
+title: "Index"
+format: html
+project:
+  type: website
+  output-dir: ../docs
+  
+---
