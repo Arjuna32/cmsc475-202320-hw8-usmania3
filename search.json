@@ -4,6 +4,34 @@
     "href": "src/index.html",
     "title": "Amaan’s first page",
     "section": "",
-    "text": "{.figma} figma prototype ##"
+    "text": "{.figma}"
+  },
+  {
+    "objectID": "src/index.html#expo-web-app",
+    "href": "src/index.html#expo-web-app",
+    "title": "Amaan’s first page",
+    "section": "Expo web app",
+    "text": "Expo web app"
+  },
+  {
+    "objectID": "src/index.html#sketch1",
+    "href": "src/index.html#sketch1",
+    "title": "Amaan’s first page",
+    "section": "Sketch1",
+    "text": "Sketch1\nSpirit: grief"
+  },
+  {
+    "objectID": "src/index.html#sketch2",
+    "href": "src/index.html#sketch2",
+    "title": "Amaan’s first page",
+    "section": "Sketch2",
+    "text": "Sketch2\nreflection: light reflects against mirrors"
+  },
+  {
+    "objectID": "src/index.html#sketch3",
+    "href": "src/index.html#sketch3",
+    "title": "Amaan’s first page",
+    "section": "Sketch3",
+    "text": "Sketch3\nbelonging: school of fish"
   }
 ]
