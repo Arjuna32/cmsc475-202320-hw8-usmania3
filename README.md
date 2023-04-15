@@ -1,4 +1,4 @@
-# Homework 8 - CMSC275 - Spring 2023
+# Homework 8 - CMSC475 - Spring 2023
 
 Here is a link to the homework assignment:
 
