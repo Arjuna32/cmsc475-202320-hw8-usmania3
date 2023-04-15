@@ -13,6 +13,10 @@ project:
 ## Expo web app
 <https://snack.expo.dev/@amaanusmani/hw6>{.expo}
 
+### Video of mobile app
+
+<https://www.youtube.com/watch?v=aiocpP1wHUI>{.video}
+
 ## Sketch1 - Spirit: grief
 <https://editor.p5js.org/Arjuna32/sketches/ADFKwmcYs>{.sketch1}
 
