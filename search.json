@@ -1,72 +1,51 @@
 [
   {
-    "objectID": "src/demo.html",
-    "href": "src/demo.html",
+    "objectID": "cmsc475-portfolio.html",
+    "href": "cmsc475-portfolio.html",
     "title": "Amaan’s first page",
     "section": "",
     "text": "https://www.figma.com/proto/3ZPl1xHUdabFoQAHHIuqCJ/Prototype?node-id=180-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=180%3A2"
   },
   {
-    "objectID": "src/demo.html#expo-web-app",
-    "href": "src/demo.html#expo-web-app",
+    "objectID": "cmsc475-portfolio.html#expo-web-app",
+    "href": "cmsc475-portfolio.html#expo-web-app",
     "title": "Amaan’s first page",
     "section": "Expo web app",
     "text": "Expo web app\nhttps://snack.expo.dev/@amaanusmani/hw6"
   },
   {
-    "objectID": "src/demo.html#sketch1---spirit-grief",
-    "href": "src/demo.html#sketch1---spirit-grief",
+    "objectID": "cmsc475-portfolio.html#sketch1---spirit-grief",
+    "href": "cmsc475-portfolio.html#sketch1---spirit-grief",
     "title": "Amaan’s first page",
     "section": "Sketch1 - Spirit: grief",
     "text": "Sketch1 - Spirit: grief\nhttps://editor.p5js.org/Arjuna32/sketches/ADFKwmcYs"
   },
   {
-    "objectID": "src/demo.html#sketch2---reflection-light-reflects-against-mirrors",
-    "href": "src/demo.html#sketch2---reflection-light-reflects-against-mirrors",
+    "objectID": "cmsc475-portfolio.html#sketch2---reflection-light-reflects-against-mirrors",
+    "href": "cmsc475-portfolio.html#sketch2---reflection-light-reflects-against-mirrors",
     "title": "Amaan’s first page",
     "section": "Sketch2 - Reflection: light reflects against mirrors",
     "text": "Sketch2 - Reflection: light reflects against mirrors\nhttps://editor.p5js.org/Arjuna32/sketches/0x6ybYRl6"
   },
   {
-    "objectID": "src/demo.html#sketch3---belonging-school-of-fish",
-    "href": "src/demo.html#sketch3---belonging-school-of-fish",
+    "objectID": "cmsc475-portfolio.html#sketch3---belonging-school-of-fish",
+    "href": "cmsc475-portfolio.html#sketch3---belonging-school-of-fish",
     "title": "Amaan’s first page",
     "section": "Sketch3 - Belonging: school of fish",
     "text": "Sketch3 - Belonging: school of fish\nhttps://editor.p5js.org/Arjuna32/sketches/aB0W6IvUR"
   },
   {
-    "objectID": "src/index.html",
-    "href": "src/index.html",
-    "title": "Amaan’s first page",
+    "objectID": "demo.html",
+    "href": "demo.html",
+    "title": "Demo",
     "section": "",
-    "text": "https://www.figma.com/proto/3ZPl1xHUdabFoQAHHIuqCJ/Prototype?node-id=180-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=180%3A2"
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
-    "objectID": "src/index.html#expo-web-app",
-    "href": "src/index.html#expo-web-app",
-    "title": "Amaan’s first page",
-    "section": "Expo web app",
-    "text": "Expo web app\nhttps://snack.expo.dev/@amaanusmani/hw6"
-  },
-  {
-    "objectID": "src/index.html#sketch1---spirit-grief",
-    "href": "src/index.html#sketch1---spirit-grief",
-    "title": "Amaan’s first page",
-    "section": "Sketch1 - Spirit: grief",
-    "text": "Sketch1 - Spirit: grief\nhttps://editor.p5js.org/Arjuna32/sketches/ADFKwmcYs"
-  },
-  {
-    "objectID": "src/index.html#sketch2---reflection-light-reflects-against-mirrors",
-    "href": "src/index.html#sketch2---reflection-light-reflects-against-mirrors",
-    "title": "Amaan’s first page",
-    "section": "Sketch2 - Reflection: light reflects against mirrors",
-    "text": "Sketch2 - Reflection: light reflects against mirrors\nhttps://editor.p5js.org/Arjuna32/sketches/0x6ybYRl6"
-  },
-  {
-    "objectID": "src/index.html#sketch3---belonging-school-of-fish",
-    "href": "src/index.html#sketch3---belonging-school-of-fish",
-    "title": "Amaan’s first page",
-    "section": "Sketch3 - Belonging: school of fish",
-    "text": "Sketch3 - Belonging: school of fish\nhttps://editor.p5js.org/Arjuna32/sketches/aB0W6IvUR"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CMSC 475 web site - Amaan Usmani",
+    "section": "",
+    "text": "Hello world!\nWelcome to my web site!\nThis site presents some of the things I’ve done over the last semester in CMSC 475. Visit the links above in the navigation bar.\nEnjoy!\n\n\nBackground\nThis site was built as part of homework assignment 8 for CMSC 475.\nhttps://lowkeylabs.github.io/cmsc475-202320-materials/homework8.html"
   }
 ]

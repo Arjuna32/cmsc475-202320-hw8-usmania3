@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Arjuna32.github.io/cmsc475-202320-hw8-usmania3/src/demo.html</loc>
-    <lastmod>2023-04-14T22:59:57.719Z</lastmod>
+    <loc>https://Arjuna32.github.io/cmsc475-202320-hw8-usmania3/cmsc475-portfolio.html</loc>
+    <lastmod>2023-04-15T21:41:49.249Z</lastmod>
   </url>
   <url>
-    <loc>https://Arjuna32.github.io/cmsc475-202320-hw8-usmania3/src/index.html</loc>
-    <lastmod>2023-04-14T22:59:58.183Z</lastmod>
+    <loc>https://Arjuna32.github.io/cmsc475-202320-hw8-usmania3/demo.html</loc>
+    <lastmod>2023-04-15T21:41:52.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Arjuna32.github.io/cmsc475-202320-hw8-usmania3/index.html</loc>
+    <lastmod>2023-04-15T21:41:52.806Z</lastmod>
   </url>
 </urlset>
